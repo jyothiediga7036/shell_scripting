@@ -17,4 +17,9 @@ then
  then 
  echo "a is not equal to b"
  fi
- 
+if (( a > b ))
+then 
+	echo "a is greater then  b"
+else
+	echo " a is less than b "
+fi 
