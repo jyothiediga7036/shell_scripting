@@ -8,3 +8,4 @@ do
 	mul=$((mul * i ))
 done
 echo "factorial of $n is  : $mul"
+
