@@ -1,0 +1,7 @@
+both not equal
+JYOTHI
+jyothi
+i like ubantu
+hello
+hello
+6 // string length

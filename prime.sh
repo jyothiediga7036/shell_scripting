@@ -75,12 +75,9 @@ COMMENT
 
 n=${ls}
 #echo "prasent :$var"  # not work 
-
-
-
-
 n="hello"
 echo " :$n 123"
+
 
 
 

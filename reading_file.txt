@@ -1,11 +1,3 @@
-A cache line is the smallest unit of data transferred between main memory and the cache.
- A typical cache line is 64 bytes and contains metadata such as the valid bit, dirty bit, and tag, along with the actual data.
-  The cache fetches an entire cache line instead of just one word because of the principle of spatial locality. 
-  If the CPU accesses one memory location, it is likely to access nearby memory locations soon. 
-  Fetching 64 bytes at once reduces future RAM accesses and improves perfo
-pwd
-data
-ls
 mango
-apple
-
+chaitanya
+d
