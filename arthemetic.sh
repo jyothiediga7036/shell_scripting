@@ -12,3 +12,7 @@ echo "mul :$mul"
 echo "div :$div"
 echo "equal :$[$a == $b]"
 echo "not equal :$[$a != $b]"
+
+let x=$a+$b
+echo "let result $x"
+
